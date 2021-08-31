@@ -2,4 +2,4 @@
 Add Ordered Items on order grid (new column)
 
 
-![Add custom field to bundle options](https://user-images.githubusercontent.com/78853784/131263757-b607eaf8-de37-4602-826b-340df2d62401.png?raw=true)
+![Add ordered item column to sales order grid](https://user-images.githubusercontent.com/78853784/131563008-b66af90b-0d9b-4f6e-983b-c2438ec6d3ab.png?raw=true)
